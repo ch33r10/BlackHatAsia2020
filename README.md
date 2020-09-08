@@ -9,7 +9,7 @@
 <p align="center">Security teams often feel like they're in a losing battle with threat intel. They don't know how to make threat intel useful or operationalize it within their organizations, especially if there isn't a dedicated full-time team. In this talk, we'll help you extract more value out of your threat intel program, giving you an easy win to level up not just your team, but the other teams in your security department. First, we'll explore why true attribution is so hard, from false flag operations and proxy attackers to obtaining all the forensic data you would need and even possible coordination with law enforcement or government agencies to perform true attribution. We'll discuss TTPs and how they're a lower-cost way of tracking threat activity groups for most organizations. Then we'll introduce Adversary Detection Pipelines, how they can add value through prioritizing defensive and offensive activities as well as a discussion on the practical implementation of them in any organization. Finally, we'll conclude by looking at case studies of how purple teams can leverage Adversary Detection Pipelines to enhance their operations and encourage an intelligence driven security program.</p>
 <hr></hr>
 <p><h3 align="center">💌<b>REFERENCES</b>💌</h3></p>
-<p>🦄<b>ATTRIBUTION</b></p>
+<p>🔮<b>ATTRIBUTION</b></p>
 <ul>
  <li>Brian Bartholomew & Juan Andres Guerrero-Saade. Wave Your False Flags! Deception Tactics Muddying Attribution in Targeted Attacks - <a href="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2017/10/20114955/Bartholomew-GuerreroSaade-VB2016.pdf">Link</a></p>
  <li>Jake Williams. Conducting a Successful False Flag Operation. BlackHat Europe 2019 - <a href="https://youtu.be/W2vBu_Jui9A">Link</a></li>
@@ -41,7 +41,7 @@
  <li>Robert M. Lee and David J. Bianco. Generating Hypotheses for Successful Threat Hunting. SANS Analyst White Paper - <a href="https://www.sans.org/reading-room/whitepapers/threats/generating-hypotheses-successful-threat-hunting-37172">Link</a></li>
    <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
   </ul>
-<p>🔮<b>PURPLE</b></p>
+<p>🦄<b>PURPLE</b></p>
 <ul>
   <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
