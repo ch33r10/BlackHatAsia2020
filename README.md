@@ -46,6 +46,7 @@
   <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
+  <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
  <p>👾<b>MALWARE ANALYSIS</b></p>
  <ul>
