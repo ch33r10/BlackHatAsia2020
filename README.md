@@ -2,7 +2,7 @@
 # [![BlackHat Asia header](https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/bhasia%20github%20banner.png)](https://ch33r10.com)
 <p align='center'>
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/xena-o-54491512/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
 </p>
 <h3 align="center">ADVERSARY DETECTION PIPELINES: FINALLY MAKING YOUR THREAT INTEL USEFUL🥳</h3>
 <h5 align="center">🎉<a href="https://open.spotify.com/playlist/1hMhItE0ESAdKDKIwjONmI?si=D1rF2p4-SCOSL0fcmIxJoA">BlackHat Asia 2020 Spotify Playlist</a>🎉</h5>
